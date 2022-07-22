@@ -9,16 +9,16 @@ Experience
 - 4 years of total experience in Low poly Modeling
 
 Skills 
--Blender (4 Years Exp.)
--Adobe Photoshop (4 Years Exp.)
--Adobe lightroom (3 Years Exp.)
--canva (1 Years Exp.)
--Pixellab (2 Years Exp.)
+- Blender (4 Years Exp.)
+- Adobe Photoshop (4 Years Exp.)
+- Adobe lightroom (3 Years Exp.)
+- canva (1 Years Exp.)
+- Pixellab (2 Years Exp.)
 
 
 Career Highlights
--Complete 700+ Projects.
--Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
+- Complete 700+ Projects.
+- Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
 
 
 <!---
