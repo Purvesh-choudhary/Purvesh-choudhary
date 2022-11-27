@@ -36,21 +36,24 @@
 
 <h3 align="left">Experience</h3>
 <ul>
-  <li> :video_game: 4 years of total experience, with 2 years in manipulation (Graphics Design)
-  <li> :video_game: 4 years of total experience in Low poly Modeling
+  <li> :video_game: 4 years of total experience, with 2 years in manipulation (Graphics Design) </li>
+  <li> :video_game: 4 years of total experience in Low poly Modeling </li>
+</ul>
 
 <h3 align="left">Tools Used </h3>
-<li>  :space_invader: Blender (4 Years Exp.)
-<li>  :space_invader: Adobe Photoshop (4 Years Exp.)
-<li>  :space_invader: Adobe lightroom (3 Years Exp.)
-<li>  :space_invader: canva (1 Years Exp.)
-<li>  :space_invader: Pixellab (2 Years Exp.)
+<ul>
+  <li>  :space_invader: Blender (4 Years Exp.) </li>
+  <li>  :space_invader: Adobe Photoshop (4 Years Exp.) </li>
+  <li>  :space_invader: Adobe lightroom (3 Years Exp.) </li>
+  <li>  :space_invader: canva (1 Years Exp.) </li>
+  <li>  :space_invader: Pixellab (2 Years Exp.) </li>
+</ul>
 
-
-<h3 align="left">Career Highlights</h3>
-<li>  :moneybag: Complete 700+ Projects.
-<li>  :moneybag: Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
-
+<h3 align="left">Career Highlights</h3> 
+<ul>
+  <li>  :moneybag: Complete 700+ Projects. </li>
+  <li>  :moneybag: Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.) </li>
+</ul>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/purvesh_gamedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="purvesh_gamedev" /></a></p><br><br>
