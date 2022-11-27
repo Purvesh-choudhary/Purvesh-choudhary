@@ -35,20 +35,20 @@
 
 
 <h3 align="left">Experience</h3>
-- 🔭 4 years of total experience, with 2 years in manipulation (Graphics Design)
-- 🔭 4 years of total experience in Low poly Modeling
+- :camera: 4 years of total experience, with 2 years in manipulation (Graphics Design)
+- :video_game: 4 years of total experience in Low poly Modeling
 
-<h3 align="left">Software is used since </h3>
-- 🔭 Blender (4 Years Exp.)
-- 🔭 Adobe Photoshop (4 Years Exp.)
-- 🔭 Adobe lightroom (3 Years Exp.)
-- 🔭 canva (1 Years Exp.)
-- 🔭 Pixellab (2 Years Exp.)
+<h3 align="left">Tools Used </h3>
+- :space_invader: Blender (4 Years Exp.)
+- :space_invader: Adobe Photoshop (4 Years Exp.)
+- :space_invader: Adobe lightroom (3 Years Exp.)
+- :space_invader: canva (1 Years Exp.)
+- :space_invader: Pixellab (2 Years Exp.)
 
 
 <h3 align="left">Career Highlights</h3>
-- 🔭 Complete 700+ Projects.
-- 🔭 Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
+- - 🔭 Complete 700+ Projects.
+- - 🔭 Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
 
 
 <h3 align="left">Support:</h3>
