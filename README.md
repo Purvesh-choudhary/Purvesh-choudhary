@@ -34,11 +34,11 @@
 
 
 
-Experience
+<h3 align="left">Experience</h3>
 - 4 years of total experience, with 2 years in manipulation (Graphics Design)
 - 4 years of total experience in Low poly Modeling
 
-Skills 
+<h3 align="left">Software is used since </h3>
 - Blender (4 Years Exp.)
 - Adobe Photoshop (4 Years Exp.)
 - Adobe lightroom (3 Years Exp.)
@@ -46,7 +46,7 @@ Skills
 - Pixellab (2 Years Exp.)
 
 
-Career Highlights
+<h3 align="left">Career Highlights</h3>
 - Complete 700+ Projects.
 - Works with Many Units (Real Fx Unit, Garden Unit, Butterfly Unit, Designing Era , Elevation Designing ETC.)
 
