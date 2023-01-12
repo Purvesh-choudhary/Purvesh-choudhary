@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/purvesh_chow" target="blank"> Twitter </a>
-<a href="https://linkedin.com/in/purvesh-choudhary" target="blank"> LinkedIn </a>
-<a href="https://instagram.com/purveshchoudhary" target="blank"> Instagram </a>
-<a href="https://www.youtube.com/c/gamedevpurvesh" target="blank"> Youtube </a>
+<a href="https://twitter.com/purvesh_chow" target="blank"> Twitter </a> </br>
+<a href="https://linkedin.com/in/purvesh-choudhary" target="blank"> LinkedIn </a> </br>
+<a href="https://instagram.com/purveshchoudhary" target="blank"> Instagram </a> </br>
+<a href="https://www.youtube.com/c/gamedevpurvesh" target="blank"> Youtube </a> </br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
