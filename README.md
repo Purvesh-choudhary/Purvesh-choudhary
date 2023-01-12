@@ -36,9 +36,7 @@
 - unity
 - visual studio
 - vscode
-
-- c 
-- cplusplus 
+- c / c++  
 - csharp 
 - css3 
 - html5 
@@ -74,10 +72,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/purvesh_gamedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="purvesh_gamedev" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purvesh-choudhary&show_icons=true&locale=en&layout=compact" alt="purvesh-choudhary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purvesh-choudhary&show_icons=true&locale=en" alt="purvesh-choudhary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purvesh-choudhary&" alt="purvesh-choudhary" /></p>
 
