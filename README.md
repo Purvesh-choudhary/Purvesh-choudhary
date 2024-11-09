@@ -55,5 +55,4 @@ src="https://img.shields.io/twitter/follow/purvesh_chow?logo=twitter&style=for-t
 <div width="100%" align="center"><a href="https://github.com/Purvesh-choudhary/Data-Structures-and-algorithms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purvesh-choudhary&repo=Data-Structures-and-algorithms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Purvesh-choudhary/Cpp-new" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purvesh-choudhary&repo=Cpp-new&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
-
-<a href="https://www.buymeacoffee.com/purvesh_gamedev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K414FKSG)
