@@ -9,7 +9,6 @@ Hey, I'm Purvesh Choudhary, an Indie Game Developer from India. I love creating 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [HERE](http://gamedevpurvesh.itch.io/)
 * ✉️  You can contact me at [gamedevpurvesh@gmail.com](mailto:gamedevpurvesh@gmail.com)
-* 🚀  I'm currently working on [Project : Grome](http://gamedevpurvesh.itch.io/grome)
 * 🧠  I'm learning c#
 * 🤝  I'm open to collaborating on indie Projects / Mini Projects
 
